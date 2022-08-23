@@ -20,10 +20,12 @@
  </a>
 </p>
 
-
-> I’m a software engineer specializing in building Web Applications. For the frontend I love building WebApplication in WordPress , js & ASP.NET Core (Blazor or MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
-> 
-> I am an active blogger too, where I share whatever I've learned. My Blog contains over 60 Detailed Articles (linked to Github Repositories) around Microsoft Technologies that brings me around 80,000 Monthly readers.
+- 👋 Hi, I’m Ratnesh Kumar. I'm a full-stack developer with experienece in WordPress .Net  ASP.NET Core (Blazor or MVC / Razor Pages).
+- 👀 I love developing with Html, Css, WordPress, JavaScript, C#, .Net and Blazor.
+- 🖥️ As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
+- 💞️ I’m looking to collaborate on any web application development projects.
+- 📫 Reach me  on email info@goedgo.com
+- 🌱 I am an active blogger too, where I share whatever I've learned.
 
 #### Trivia
 - 📝 I blog here: http://www.goedgo.com/
