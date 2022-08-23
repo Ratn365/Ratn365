@@ -9,7 +9,7 @@
  <a href="https://github.com/ratn365" alt="Ratnesh's github">
    <img src="https://img.shields.io/badge/-@ratnesh-%23181717?style=flat-square&logo=github" />
  </a>
- <a href="https://www.linkedin.com/in/ratnesh" alt="ratnesh's linkedin">
+ <a href="https://www.linkedin.com/in/#" alt="ratnesh's linkedin">
    <img src="https://img.shields.io/badge/-ratnesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ratnesh" />
  </a>
  <a href="https://goedgo.com" alt="Ratnesh's blog">
@@ -28,7 +28,7 @@
 #### Trivia
 - 📝 I blog here: http://www.goedgo.com/
 - 📫 Follow me on Twitter [@goedgocom](https://twitter.com/goedgocom) 
-- 🦸 Career Aim - Work for a cool Product company! 
+- 🦸 Career Aim - Work for a good company! 
 
 ---
 
