@@ -51,7 +51,9 @@
   <a href="https://angular.io">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
   </a>
-  
+  <a href="https://www.wordpress.com">
+    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="wordpress" style="vertical-align:top; margin:4px">
+  </a>
   <a href="https://www.github.com">
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
   </a>
@@ -60,7 +62,3 @@
   </a>
 </p>
 <br/>
-
-<p align="center">
-  <a href="#" alt="ratnesh's github stats"><img src="https://github-readme-stats.vercel.app/api?username=Ratn365" /></a>
-</p>
