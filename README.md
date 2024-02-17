@@ -20,8 +20,8 @@
  </a>
 </p>
 
-- 👋 I'm a full-stack developer with experienece in WordPress .Net  ASP.NET Core (Blazor or MVC / Razor Pages).
-- 👀 I love developing with Html, Css, WordPress, JavaScript, C#, .Net and Blazor.
+- 👋 I'm a full-stack developer with experienece in Google App Script, WordPress .Net  ASP.NET Core (Blazor or MVC / Razor Pages).
+- 👀 I love developing with Html, Css, JavaScript, C#, WordPress, .Net and Blazor.
 - 🖥️ As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
 - 💞️ I’m looking to collaborate on any web application development projects.
 - 📫 Reach me  on email info@goedgo.com
